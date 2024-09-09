@@ -35,7 +35,6 @@ INSERT INTO Consulta (paciente_id, dentista_id, data_consulta) VALUES
 (8, 8, '2024-09-17 14:00:00'),
 (9, 9, '2024-09-18 12:00:00'),
 (10, 10, '2024-09-19 17:00:00');
-
 INSERT INTO Tratamento (consulta_id, descricao, data_inicio, data_fim) VALUES
 (1, 'Limpeza e Polimento', '2024-09-10', '2024-09-10'),
 (2, 'Tratamento de Canal', '2024-09-11', '2024-09-25'),
